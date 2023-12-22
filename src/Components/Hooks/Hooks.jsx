@@ -204,7 +204,7 @@ const ComponentToPrint = React.forwardRef((props, ref) => {
   return (
     <div ref={ref}>
       Hello World
-      <p className='content' style={{fontSize:"27px",marginLeft:"40px",marginRight:"40px",color:"blue"}}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex non rerum fuga veniam molestias atque, soluta vero rem quas! Assumenda at fugiat iste eos eius a molestiae laborum rem enim?
+      <p className='content' style={{fontSize:"27px",marginLeft:"40px",marginRight:"40px",color:"blue"}}> Hello World,Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ex non rerum fuga veniam molestias atque, soluta vero rem quas! Assumenda at fugiat iste eos eius a molestiae laborum rem enim?
       Inventore odio temporibus, quaerat vel omnis soluta officiis odit aliquam praesentium optio rerum quos delectus dolorem ea a qui. Aut optio vero animi aspernatur incidunt, amet magnam quaerat ipsum et.
       Fugiat modi sit iusto minima magni debitis est incidunt ab ex! Minima adipisci, odio corrupti tempore officiis iusto enim vel, sunt nulla qui temporibus! Mollitia earum magni explicabo possimus nostrum?
       Esse, quibusdam aperiam! Aut illo repudiandae eligendi eius, a voluptatem facilis neque harum voluptates ipsam qui, debitis fugit similique aliquid, libero quidem praesentium! Odio quisquam iure tenetur asperiores saepe dolorem?
